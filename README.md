@@ -57,10 +57,6 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
 
 
-## 🏆 My GitHub Trophies  
-
-<img src="https://github-profile-trophy.vercel.app/?username=IamBikramPurkait&theme=dracula" width="780" />
-
 
 
 
