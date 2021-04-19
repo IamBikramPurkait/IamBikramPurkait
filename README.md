@@ -55,3 +55,18 @@
 <a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+
+
+## 🏆 My GitHub Trophies  
+
+<img src="https://github-profile-trophy.vercel.app/?username=IamBikramPurkait&theme=dracula" width="780" />
+
+
+
+
+
+
+
+## Joke of the day  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
