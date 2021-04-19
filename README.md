@@ -41,8 +41,8 @@
 <a href="https://github.com/IamBikramPurkait">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamBikramPurkait&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPurkait"/>
+
 </a>
 </p>
 
