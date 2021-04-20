@@ -67,6 +67,6 @@ const Bikram = {
 </a>
 </p>
 
-## Joke of the day  
+## 😜 &nbsp;<em>Here's a Joke for you</em>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
