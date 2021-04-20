@@ -2,12 +2,12 @@
 <h3 align="center">A passionate computer science student from India</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **React.js, Express, Typescript, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/IamBikramPurkait?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
@@ -49,12 +49,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/bikram-purkait-5463861a8/"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.IamBikramPurkait.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/bikram-purkait-5463861a8/"><img src="https://img.shields.io/badge/-IamBikramPurkait-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bkrmprkt@gmail.com"><img src="https://img.shields.io/badge/-bkrmprkt@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/IamBikramPurkait"><img src="https://img.shields.io/badge/-@IamBikramPurkait-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IamBikramPurkait&" alt="IamBikramPurkait" /></p> -->
 
 
 
