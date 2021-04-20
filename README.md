@@ -6,7 +6,7 @@
 [![Linkedin: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikram-purkait-5463861a8/)](https://www.linkedin.com/in/bikram-purkait-5463861a8/)
 [![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)](https://github.com/IamBikramPurkait)
 ![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
-<p align="centre"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></p>
+<p align="centre"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="400" width="400"></p>
 
 
 
