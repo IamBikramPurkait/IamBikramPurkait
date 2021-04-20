@@ -6,6 +6,7 @@
 [![Linkedin: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikram-purkait-5463861a8/)](https://www.linkedin.com/in/bikram-purkait-5463861a8/)
 [![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)](https://github.com/IamBikramPurkait)
 ![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
+<a href="mailto:bkrmprkt@gmail.com"><img src="https://img.shields.io/badge/-bikram-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <p align="center">
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -26,8 +27,7 @@ const Bikram = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em><a href="mailto:bkrmprkt@gmail.com"><img src="https://img.shields.io/badge/-bikram-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
 ---
 
