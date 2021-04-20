@@ -11,7 +11,6 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
-
 ```javascript
 const Bikram = {
     pronouns: "He" | "Him",
@@ -27,7 +26,12 @@ const Bikram = {
 };
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>[![Gmail: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkrmprkt@gmail.com)](mailto:bkrmprkt@gmail.com)
 
+---
+<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 
 
