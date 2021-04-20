@@ -8,19 +8,35 @@
 ![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
 
 <p align="center">
-  <img width="400" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+  <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
-- 🌱 I’m currently learning **React.js, Express, Typescript, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/IamBikramPurkait?tab=repositories)
+```javascript
+const Bikram = {
+    pronouns: "He" | "Him",
+    code: ["C++", "C", "Python"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS", "JavaScript"],
+        backEnd: ["Node.js", "Express", "Pug"],
+        dataBase: ["Mongodb"]
+        },
+    askMeAbout: ["Comptetive Programming", "tech"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **bkrmprkt@gmail.com**
 
 
-	
+
+
+
+
+
+
+
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
