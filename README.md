@@ -26,7 +26,7 @@ const Bikram = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>[![Gmail: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkrmprkt@gmail.com)](mailto:bkrmprkt@gmail.com)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><a align="right" href="mailto:bkrmprkt@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 <!--START_SECTION:waka-->
