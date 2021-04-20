@@ -1,9 +1,23 @@
-<h1 align="center">Hi 👋, I'm Bikram Purkait</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h1>नमस्ते (Namaste)🙏🏻, I'm Bikram Purkait! </h1>
+<h3 align="center">A Passionate Computer Science Student From India</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 	
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat">
-</p>
+</p> -->
+
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
+[![Linkedin: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikram-purkait-5463861a8/)](https://www.linkedin.com/in/bikram-purkait-5463861a8/)
+
+![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)
+
+![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
+
+
+
+
+
+
 
 - 🌱 I’m currently learning **React.js, Express, Typescript, etc.**
 
