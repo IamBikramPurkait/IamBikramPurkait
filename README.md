@@ -26,10 +26,8 @@ const Bikram = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-<p align="right">
-<a href="mailto:bkrmprkt@gmail.com"><img src="https://img.shields.io/badge/-bikram-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em><a href="mailto:bkrmprkt@gmail.com"><img src="https://img.shields.io/badge/-bikram-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 
 ---
 
