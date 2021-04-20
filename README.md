@@ -4,14 +4,12 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat">
 </p> -->
-<p><em>A Passionate Computer Science Student From India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CSE Sophomore at <a href="https://www.rcciit.org/">RCC IIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
+
 [![Linkedin: Bikram](https://img.shields.io/badge/-bikram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikram-purkait-5463861a8/)](https://www.linkedin.com/in/bikram-purkait-5463861a8/)
-
-![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)
-
+[![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)](https://github.com/IamBikramPurkait)
 ![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
 
 
