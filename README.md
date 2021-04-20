@@ -7,9 +7,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/IamBikramPurkait?label=Follow&style=social)](https://github.com/IamBikramPurkait)
 ![](https://komarev.com/ghpvc/?username=IamBikramPurkait&color=blueviolet&style=flat)
 
-<img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="400" width="400">
-
-
+<p align="center">
+  <img width="400" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+</p>
 
 - 🌱 I’m currently learning **React.js, Express, Typescript, etc.**
 
