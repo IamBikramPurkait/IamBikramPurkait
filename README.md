@@ -14,7 +14,7 @@
 
 
 
-<p align="centre"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="50"></p>
+<p align="centre"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></p>
 
 
 
