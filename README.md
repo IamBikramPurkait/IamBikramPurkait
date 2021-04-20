@@ -70,3 +70,6 @@ const Bikram = {
 ## 😜 &nbsp;<em>Here's a Joke for you</em>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IamBikramPurkait&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
