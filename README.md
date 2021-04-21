@@ -61,9 +61,10 @@ const Bikram = {
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamBikramPurkait&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait"/>
+
+![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait"/>
 </a>
 </p>
 </details>
@@ -76,3 +77,4 @@ const Bikram = {
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
