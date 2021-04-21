@@ -29,7 +29,7 @@ const Bikram = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
----
+***
 
 ### 🛠 &nbsp;<em>Languages and Tools</em>
 
@@ -57,7 +57,8 @@ const Bikram = {
 
 
 
-<details><summary><em><span style="font-size:1.5rem;">GitHub Analytics</span></em></summary>
+<details><summary><em><span style="font-size:1.5rem;">⚙ GitHub Analytics</span></em></summary>
+<br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamBikramPurkait&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -66,11 +67,10 @@ const Bikram = {
 </a>
 </p>
 </details>
-## 😜 &nbsp;<em>Here's a Joke for you</em>
 
+<details><summary><em><span style="font-size:1.5rem;">😜 &nbsp;<em>Here's a Joke for you</em></span></em></summary>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
+</details>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
