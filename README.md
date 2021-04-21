@@ -55,8 +55,9 @@ const Bikram = {
 <br>
 
 
-### ⚙️ &nbsp;<em>GitHub Analytics</em>
 
+
+<details><summary><em>GitHub Analytics</em></summary>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamBikramPurkait&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -64,7 +65,7 @@ const Bikram = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait"/>
 </a>
 </p>
-
+</details>
 ## 😜 &nbsp;<em>Here's a Joke for you</em>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
