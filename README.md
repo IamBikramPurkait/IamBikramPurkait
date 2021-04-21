@@ -68,3 +68,8 @@ const Bikram = {
 ## 😜 &nbsp;<em>Here's a Joke for you</em>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
