@@ -57,7 +57,7 @@ const Bikram = {
 
 
 
-<details><summary><em><span style="font-size:20px;">GitHub Analytics</span></em></summary>
+<details><summary><em><span style="font-size:1.5rem;">GitHub Analytics</span></em></summary>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamBikramPurkait&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
