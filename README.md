@@ -57,7 +57,7 @@ const Bikram = {
 
 
 
-<details><summary><em><span style="font-size:1.5rem;">⚙ GitHub Analytics</span></em></summary>
+<details><summary><em><span style="font-size:1.5rem">⚙ GitHub Analytics</span></em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
@@ -68,7 +68,7 @@ const Bikram = {
 </p>
 </details>
 
-<details><summary><em><span style="font-size:1.5rem;">😜 &nbsp;<em>Here's a Joke for you</em></span></em></summary>
+<details><summary><em><span style="font-size:1.5rem">😜 &nbsp;<em>Here's a Joke for you</em></span></em></summary>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
