@@ -63,7 +63,7 @@ const Bikram = {
 <a href="https://github.com/IamBikramPurkait">
 
 ![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait&theme=chartreuse-dark"/>
 </a>
 </p>
