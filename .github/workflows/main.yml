@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '59 23 * * *'
+  # Trigger the workflow on push or pull request
+  push:
+    branches:
+      - devBranch
 
 jobs:
   build:
