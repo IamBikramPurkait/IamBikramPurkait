@@ -43,7 +43,7 @@
 
 
 
-<details><summary><em>⚙ GitHub Analytics</em></summary>
+<details><summary><em>>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
@@ -68,9 +68,6 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-3. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 <!--END_SECTION:activity-->
 
 </details>
@@ -80,3 +77,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </details>
+
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.56 % as on ⏰ 22-4-2021.
+
