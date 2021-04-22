@@ -13,11 +13,11 @@
 </p>
 
 <details>
-
 <summary><em>Click to see a Magic</em></summary>
 
-</details>
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.58 % as on ⏰ 22-4-2021.
 
+</details>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
@@ -80,6 +80,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </details>
-
 
 
