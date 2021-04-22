@@ -79,5 +79,15 @@ const Bikram = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<details>
+<summary>⚡ <em>Waka Stats</em></summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details>
+
+
+<details>
+<summary>⚡ <em>Recent Activity</em></summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
