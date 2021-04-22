@@ -12,20 +12,6 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
-```
-const Bikram = {
-    pronouns: "He" | "Him",
-    code: ["C++", "C", "Python"],
-    technologies: {
-        frontEnd: ["HTML5", "CSS", "JavaScript"],
-        backEnd: ["Node.js", "Express", "Pug"],
-        dataBase: ["Mongodb"]
-        },
-    askMeAbout: ["Comptetive Programming", "tech"],
-    currentFocus: "Comptetive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-}
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
@@ -92,5 +78,4 @@ const Bikram = {
 
 </details>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.56 % as on ⏰ 22-4-2021.
 
