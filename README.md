@@ -13,7 +13,7 @@
 </p>
 
 <details>
-<summary>⌛<em>Click to see a Magic</em></summary>
+<summary><em>Click to see a Magic</em></summary>
 
 </details>
 
