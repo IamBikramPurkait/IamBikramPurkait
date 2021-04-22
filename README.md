@@ -43,7 +43,7 @@
 
 
 
-<details><summary><em>>⚙ GitHub Analytics</em></summary>
+<details><summary><em>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
