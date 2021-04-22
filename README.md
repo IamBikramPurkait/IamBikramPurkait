@@ -12,10 +12,11 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
-<<<<<<< HEAD
-=======
+<details>
+<summary>⌛<em>Click to see a Magic</em></summary>
 
->>>>>>> devBranch
+</details>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
 ***
@@ -43,9 +44,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br>
 
-
-
-
 <details><summary><em>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
@@ -71,12 +69,6 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-<<<<<<< HEAD
-1. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-=======
->>>>>>> devBranch
 <!--END_SECTION:activity-->
 
 </details>
@@ -85,10 +77,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<<<<<<< HEAD
-</details>
-=======
 </details>
 
 
->>>>>>> devBranch
+

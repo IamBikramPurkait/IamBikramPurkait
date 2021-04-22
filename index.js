@@ -29,6 +29,12 @@ const readme = `\
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
+<details>
+<summary>⌛<em>Click to see a Magic</em></summary>
+
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+
+</details>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
@@ -57,10 +63,7 @@ const readme = `\
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br>
 
-
-
-
-<details><summary><em>>⚙ GitHub Analytics</em></summary>
+<details><summary><em>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
@@ -95,6 +98,5 @@ const readme = `\
 
 </details>
 
-⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 `
 console.log(readme)
