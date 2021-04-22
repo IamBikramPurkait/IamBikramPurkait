@@ -82,6 +82,7 @@ const Bikram = {
 <details>
 <summary>⚡ <em>Waka Stats</em></summary>
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 <!--END_SECTION:activity-->
 </details>
 
@@ -91,3 +92,9 @@ const Bikram = {
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+=======
+1. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+2. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+3. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+<!--END_SECTION:activity-->
+>>>>>>> 36618e20991844ded0ad77b96057cca4cb9dcdcf
