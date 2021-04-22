@@ -70,12 +70,6 @@ const Bikram = {
 </p>
 </details>
 
-<details><summary><em><span style="font-size:1.5rem">😜 &nbsp;<em>Here's a Joke for you</em></span></em></summary>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</details>
-
 <details>
 <summary>⚡ <em>Waka Stats</em></summary>
 <!--START_SECTION:waka-->
@@ -86,4 +80,8 @@ const Bikram = {
 <summary>⚡ <em>Recent Activity</em></summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+</details>
+
+<details><summary><em>😜 &nbsp;<em>Here's a Joke for you</em></em></summary>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 </details>
