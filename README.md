@@ -80,4 +80,7 @@ const Bikram = {
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+2. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+3. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 <!--END_SECTION:activity-->
