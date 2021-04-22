@@ -1,3 +1,20 @@
+const thisYear = new Date().getFullYear()
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
+const progressBarOfThisYear = generateProgressBar()
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    return `{ ${progressBar} }`
+}
+
+const readme = `\
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Bikram Purkait! </h1>
 
 <p><em>CSE Sophomore at <a href="https://www.rcciit.org/">RCC IIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -12,10 +29,7 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> devBranch
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! </b> 😊</em>
 
 ***
@@ -46,7 +60,7 @@
 
 
 
-<details><summary><em>⚙ GitHub Analytics</em></summary>
+<details><summary><em>>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
@@ -71,12 +85,6 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-<<<<<<< HEAD
-1. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-=======
->>>>>>> devBranch
 <!--END_SECTION:activity-->
 
 </details>
@@ -85,10 +93,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<<<<<<< HEAD
-</details>
-=======
 </details>
 
-
->>>>>>> devBranch
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+`
+console.log(readme)
