@@ -1,3 +1,20 @@
+const thisYear = new Date().getFullYear()
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
+const progressBarOfThisYear = generateProgressBar()
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    return `{ ${progressBar} }`
+}
+
+const readme = `\
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Bikram Purkait! </h1>
 
 <p><em>CSE Sophomore at <a href="https://www.rcciit.org/">RCC IIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -57,7 +74,7 @@ const Bikram = {
 
 
 
-<details><summary><em>⚙ GitHub Analytics</em></summary>
+<details><summary><em>>⚙ GitHub Analytics</em></summary>
 <br>
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
@@ -82,9 +99,6 @@ const Bikram = {
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/1) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 <!--END_SECTION:activity-->
 
 </details>
@@ -97,3 +111,5 @@ const Bikram = {
 
 ---
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
+`
+console.log(readme)
