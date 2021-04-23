@@ -15,6 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.74 % as on ⏰ 23-4-2021.
 
 </details>
 
