@@ -69,7 +69,6 @@
 
 <details>
 <summary>⚡ <em>Recent Activity</em></summary>
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
