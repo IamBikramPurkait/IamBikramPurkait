@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Waka Stats
 
 on:
   workflow_dispatch:
