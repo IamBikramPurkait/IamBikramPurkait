@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.70 % as on ⏰ 23-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.74 % as on ⏰ 23-4-2021.
 
 </details>
 
@@ -51,9 +51,9 @@
 <p align="center">
 <a href="https://github.com/IamBikramPurkait">
 
-![Bikram's GitHub Stats](https://github-readme-stats-iambikrampurkait.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
-<img height="180em" src="https://github-readme-stats-iambikrampurkait.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
-<img height="180em" src="https://github-readme-stats-iambikrampurkait.vercel.app/api/wakatime?username=IamBikramPukait&theme=chartreuse-dark"/>
+![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait&theme=chartreuse-dark"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamBikramPurkait&theme=chartreuse-dark)](https://git.io/streak-stats)
 </a>
 </p>
@@ -71,25 +71,14 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-7. ❗️ Closed issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-8. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 <!--END_SECTION:activity-->
 
 </details>
 
-### 🔉 <em>A Famous Fact/Quote</em>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+<details><summary><em>😜 &nbsp;<em>Here's a Joke for you</em></em></summary>
 
-### 😜 <em>Here's a Joke for you</em>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+</details>
 
 
