@@ -11,4 +11,4 @@ jobs:
     name: Update Quote README
     runs-on: ubuntu-latest
     steps:
-      - uses: IamBikramPurkait/quote-readme@master
+      - uses: IamBikramPurkait/quote-readme@main
