@@ -92,11 +92,13 @@ const readme = `\
 
 </details>
 
-<details><summary><em>😜 &nbsp;<em>Here's a Joke for you</em></em></summary>
+### <em>🔉 A Famous Fact/Quote</em>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
+
+### <em>😜 Here's a Joke for you</em>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</details>
 
 `
 console.log(readme)
