@@ -71,6 +71,11 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
+5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 <!--END_SECTION:activity-->
 
 </details>
