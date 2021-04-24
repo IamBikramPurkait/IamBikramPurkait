@@ -12,6 +12,21 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
+```javascript
+const Bikram = {
+    pronouns: "He" | "Him",
+    code: ["C++", "C", "Python"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS", "JavaScript"],
+        backEnd: ["Node.js", "Express", "Pug"],
+        dataBase: ["Mongodb"]
+        },
+    askMeAbout: ["Comptetive Programming", "tech"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
