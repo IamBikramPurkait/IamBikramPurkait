@@ -30,6 +30,10 @@ const Bikram = {
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
+<<<<<<< HEAD
+=======
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.00 % as on ⏰ 24-4-2021.
+>>>>>>> 9813b5fbe2fa5f3b6fe767833bea9ee6fa8ec7e3
 
 </details>
 
