@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.74 % as on ⏰ 23-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.97 % as on ⏰ 24-4-2021.
 
 </details>
 
@@ -54,7 +54,7 @@
 ![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait&theme=chartreuse-dark"/>
-[![GitHub Streak](https://iambikrampurkait-readme-streak.herokuapp.com/?user=IamBikramPurkait&theme=chartreuse-dark)](https://github.com/IamBikramPurkait/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamBikramPurkait&theme=chartreuse-dark)](https://git.io/streak-stats)
 </a>
 </p>
 </details>
@@ -71,21 +71,12 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-7. ❗️ Closed issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-8. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
