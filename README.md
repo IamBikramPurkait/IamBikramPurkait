@@ -12,10 +12,24 @@
   <img width="500" height="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
+```javascript
+const Bikram = {
+    pronouns: "He" | "Him",
+    code: ["C++", "C", "Python"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS", "JavaScript"],
+        backEnd: ["Node.js", "Express", "Pug"],
+        dataBase: ["Mongodb"]
+        },
+    askMeAbout: ["Comptetive Programming", "tech"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.97 % as on ⏰ 24-4-2021.
 
 </details>
 
@@ -71,21 +85,13 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/2) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-7. ❗️ Closed issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
-8. ❗️ Opened issue [#1](https://github.com/IamBikramPurkait/IamBikramPurkait/issues/1) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
+
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
