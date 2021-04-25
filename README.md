@@ -71,11 +71,11 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/2) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-4. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/Swaralipi-Music-Player/pull/4) in [IamBikramPurkait/Swaralipi-Music-Player](https://github.com/IamBikramPurkait/Swaralipi-Music-Player)
-5. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Rock-Paper-Scissor-Game/pull/1) in [IamBikramPurkait/Rock-Paper-Scissor-Game](https://github.com/IamBikramPurkait/Rock-Paper-Scissor-Game)
+1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+2. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/2) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 6. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 7. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/4) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
 8. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/IamBikramPurkait/pull/3) in [IamBikramPurkait/IamBikramPurkait](https://github.com/IamBikramPurkait/IamBikramPurkait)
