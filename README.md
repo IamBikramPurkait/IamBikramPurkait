@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.51 % as on ⏰ 26-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.79 % as on ⏰ 27-4-2021.
 
 </details>
 
@@ -71,18 +71,12 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/My-CP-Journey/pull/1) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/2) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
