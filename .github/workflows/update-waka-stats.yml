@@ -1,16 +1,15 @@
-name: Update Waka Stats
+name: update Waka Readme stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
-
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: IamBikramPurkait/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: IamBikramPurkait/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
