@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.33 % as on ⏰ 29-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.62 % as on ⏰ 30-4-2021.
 
 </details>
 
@@ -71,19 +71,12 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
