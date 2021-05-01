@@ -52,7 +52,7 @@
 <a href="https://github.com/IamBikramPurkait">
 
 ![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
-<img height="200px" width="495px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
+<img width="495px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamBikramPurkait&theme=chartreuse-dark)](https://git.io/streak-stats)
 </a>
 </p>
