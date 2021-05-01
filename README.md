@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.62 % as on ⏰ 30-4-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.89 % as on ⏰ 1-5-2021.
 
 </details>
 
@@ -53,6 +53,7 @@
 
 ![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IamBikramPukait&theme=chartreuse-dark"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamBikramPurkait&theme=chartreuse-dark)](https://git.io/streak-stats)
 </a>
 </p>
@@ -62,47 +63,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    55 commits     ███████░░░░░░░░░░░░░░░░░░   30.05% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-🌃 Evening    81 commits     ███████████░░░░░░░░░░░░░░   44.26% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Tuesday      33 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59% 
-Saturday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 12 hrs 29 mins      █████████████████░░░░░░░░   68.23% 
-C++                      3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.04% 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-Pug                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
-
-💻 Operating System: 
-Windows                  18 hrs 18 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,19 +71,12 @@ Windows                  18 hrs 18 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
