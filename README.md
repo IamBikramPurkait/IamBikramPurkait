@@ -111,6 +111,12 @@ Windows                  18 hrs 18 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+3. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+4. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/My-CP-Journey/pull/3) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/My-CP-Journey/pull/2) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
