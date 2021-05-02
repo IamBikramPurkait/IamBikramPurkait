@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.89 % as on ⏰ 1-5-2021.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.17 % as on ⏰ 2-5-2021.
 
 </details>
 
@@ -52,7 +52,7 @@
 <a href="https://github.com/IamBikramPurkait">
 
 ![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamBikramPurkait&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
-<img width="495px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IamBikramPurkait&layout=compact&langs_count=12&theme=chartreuse-dark"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamBikramPurkait&theme=chartreuse-dark)](https://git.io/streak-stats)
 </a>
 </p>
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   31.69% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.62% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 12 hrs 33 mins      ███████████████████░░░░░░   75.97% 
-Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
-C++                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
-
-💻 Operating System: 
-Windows                  16 hrs 32 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,19 +70,12 @@ Windows                  16 hrs 32 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/IamBikramPurkait/My-CP-Journey/pull/6) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#6](https://github.com/IamBikramPurkait/My-CP-Journey/pull/6) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#5](https://github.com/IamBikramPurkait/My-CP-Journey/pull/5) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#5](https://github.com/IamBikramPurkait/My-CP-Journey/pull/5) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
