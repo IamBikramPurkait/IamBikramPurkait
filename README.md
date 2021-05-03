@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.17 % as on ⏰ 2-5-2021.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.44 % as on ⏰ 3-5-2021.
 
 </details>
 
@@ -62,48 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   31.69% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.62% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 5 hrs 6 mins        █████████████░░░░░░░░░░░░   55.11% 
-C++                      1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
-Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
-
-💻 Operating System: 
-Windows                  8 hrs 53 mins       ████████████████████████░   95.8% 
-Linux                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -112,21 +70,12 @@ Linux                    23 mins             █░░░░░░░░░░�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/IamBikramPurkait/My-CP-Journey/pull/7) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#7](https://github.com/IamBikramPurkait/My-CP-Journey/pull/7) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#6](https://github.com/IamBikramPurkait/My-CP-Journey/pull/6) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#6](https://github.com/IamBikramPurkait/My-CP-Journey/pull/6) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#5](https://github.com/IamBikramPurkait/My-CP-Journey/pull/5) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#5](https://github.com/IamBikramPurkait/My-CP-Journey/pull/5) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/My-CP-Journey/pull/4) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
