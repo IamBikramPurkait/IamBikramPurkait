@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.63 % as on ⏰ 11-5-2021.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.90 % as on ⏰ 12-5-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   31.69% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.62% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C                        5 hrs 18 mins       ██████████████░░░░░░░░░░░   57.18% 
-C++                      2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   23.07% 
-Markdown                 1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
-
-💻 Operating System: 
-Windows                  9 hrs 16 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  9 hrs 16 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#11](https://github.com/IamBikramPurkait/My-CP-Journey/pull/11) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#11](https://github.com/IamBikramPurkait/My-CP-Journey/pull/11) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#10](https://github.com/IamBikramPurkait/My-CP-Journey/pull/10) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#10](https://github.com/IamBikramPurkait/My-CP-Journey/pull/10) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 🎉 Merged PR [#9](https://github.com/IamBikramPurkait/My-CP-Journey/pull/9) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#9](https://github.com/IamBikramPurkait/My-CP-Journey/pull/9) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
