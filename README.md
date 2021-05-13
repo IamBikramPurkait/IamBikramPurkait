@@ -111,14 +111,14 @@ Windows                  4 hrs 40 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 💪 Opened PR [#14](https://github.com/IamBikramPurkait/My-CP-Journey/pull/14) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 🎉 Merged PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 💪 Opened PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#757](https://github.com/education/GitHubGraduation-2021/pull/757) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-7. 🎉 Merged PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+1. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
+2. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+3. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+4. 💪 Opened PR [#14](https://github.com/IamBikramPurkait/My-CP-Journey/pull/14) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+5. 🎉 Merged PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+6. 💪 Opened PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+7. 💪 Opened PR [#757](https://github.com/education/GitHubGraduation-2021/pull/757) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+8. 🎉 Merged PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
