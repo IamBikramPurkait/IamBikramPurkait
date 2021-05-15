@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.45 % as on ⏰ 14-5-2021.
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.73 % as on ⏰ 15-5-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ████████░░░░░░░░░░░░░░░░░   31.69% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.62% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.59% 
-Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████████░░░░░░░░░░░░░░   47.25% 
-C++                      1 hr 54 mins        ███████████░░░░░░░░░░░░░░   45.72% 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
-
-💻 Operating System: 
-Windows                  4 hrs 10 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  4 hrs 10 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
-2. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#14](https://github.com/IamBikramPurkait/My-CP-Journey/pull/14) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 💪 Opened PR [#757](https://github.com/education/GitHubGraduation-2021/pull/757) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-8. 🎉 Merged PR [#12](https://github.com/IamBikramPurkait/My-CP-Journey/pull/12) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
