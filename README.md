@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.73 % as on ⏰ 15-5-2021.
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 37.00 % as on ⏰ 16-5-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    59 commits     ████████░░░░░░░░░░░░░░░░░   32.07% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.39% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.46% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 2 hrs 1 min         ████████████░░░░░░░░░░░░░   47.77% 
-C++                      1 hr 54 mins        ███████████░░░░░░░░░░░░░░   45.26% 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  4 hrs 13 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39104](https://github.com/firstcontributions/first-contributions/pull/39104) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
-3. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 💪 Opened PR [#14](https://github.com/IamBikramPurkait/My-CP-Journey/pull/14) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 🎉 Merged PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 💪 Opened PR [#13](https://github.com/IamBikramPurkait/My-CP-Journey/pull/13) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#757](https://github.com/education/GitHubGraduation-2021/pull/757) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
