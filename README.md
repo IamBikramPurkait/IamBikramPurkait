@@ -111,14 +111,14 @@ Windows                  4 hrs 13 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 💪 Opened PR [#39104](https://github.com/firstcontributions/first-contributions/pull/39104) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-6. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
-7. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/My-CP-Journey/pull/15) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+1. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+2. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+3. 🎉 Merged PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+4. 💪 Opened PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+5. 🎉 Merged PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+6. 💪 Opened PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+7. 💪 Opened PR [#39104](https://github.com/firstcontributions/first-contributions/pull/39104) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+8. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
 <!--END_SECTION:activity-->
 
 </details>
