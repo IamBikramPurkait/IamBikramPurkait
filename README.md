@@ -111,14 +111,14 @@ Windows                  7 hrs 31 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-2. 💪 Opened PR [#2](https://github.com/aritrakrbasu/track-cowin-backend/pull/2) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-3. ❗️ Opened issue [#1](https://github.com/aritrakrbasu/track-cowin-backend/issues/1) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-4. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 🎉 Merged PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 💪 Opened PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 🎉 Merged PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+1. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+2. ❗️ Reopened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+3. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+4. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+5. 💪 Opened PR [#2](https://github.com/aritrakrbasu/track-cowin-backend/pull/2) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+6. ❗️ Opened issue [#1](https://github.com/aritrakrbasu/track-cowin-backend/issues/1) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+7. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+8. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
 <!--END_SECTION:activity-->
 
 </details>
