@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 37.28 % as on ⏰ 17-5-2021.
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 37.55 % as on ⏰ 18-5-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    59 commits     ████████░░░░░░░░░░░░░░░░░   32.07% 
-🌆 Daytime    39 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-🌃 Evening    78 commits     ██████████░░░░░░░░░░░░░░░   42.39% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.78% 
-Tuesday      30 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     ██████░░░░░░░░░░░░░░░░░░░   24.46% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      3 hrs 56 mins       █████████████░░░░░░░░░░░░   52.31% 
-Markdown                 2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   37.07% 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-C                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
-
-💻 Operating System: 
-Windows                  7 hrs 31 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  7 hrs 31 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-2. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-3. 🎉 Merged PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-4. 💪 Opened PR [#17](https://github.com/IamBikramPurkait/My-CP-Journey/pull/17) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-5. 🎉 Merged PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-6. 💪 Opened PR [#16](https://github.com/IamBikramPurkait/My-CP-Journey/pull/16) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-7. 💪 Opened PR [#39104](https://github.com/firstcontributions/first-contributions/pull/39104) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-8. ❗️ Opened issue [#1](https://github.com/anandamayee126/Tech/issues/1) in [anandamayee126/Tech](https://github.com/anandamayee126/Tech)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
