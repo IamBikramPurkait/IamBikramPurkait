@@ -111,14 +111,14 @@ Windows                  5 hrs 16 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-2. ❗️ Reopened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-3. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-4. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-5. 💪 Opened PR [#2](https://github.com/aritrakrbasu/track-cowin-backend/pull/2) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-6. ❗️ Opened issue [#1](https://github.com/aritrakrbasu/track-cowin-backend/issues/1) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-7. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
-8. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/My-CP-Journey/pull/18) in [IamBikramPurkait/My-CP-Journey](https://github.com/IamBikramPurkait/My-CP-Journey)
+1. ❗️ Closed issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+2. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+3. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+4. ❗️ Opened issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
+5. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+6. ❗️ Reopened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+7. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
+8. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
 <!--END_SECTION:activity-->
 
 </details>
