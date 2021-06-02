@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.41 % as on ⏰ 1-6-2021.
+⏳ **Year Progress** { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.68 % as on ⏰ 2-6-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ████████░░░░░░░░░░░░░░░░░   32.83% 
-🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
-🌃 Evening    82 commits     ██████████░░░░░░░░░░░░░░░   41.41% 
-🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68% 
-Thursday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   5 hrs 55 mins       ██████████████████████░░░   90.69% 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.58% 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Windows                  6 hrs 31 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  6 hrs 31 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-3. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-4. ❗️ Opened issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-5. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-6. ❗️ Reopened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-7. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-8. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
