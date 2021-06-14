@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.67 % as on ⏰ 13-6-2021.
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.94 % as on ⏰ 14-6-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.76% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C                        38 mins             ██████████████░░░░░░░░░░░   58.7% 
-Python                   26 mins             ██████████░░░░░░░░░░░░░░░   40.46% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
-
-💻 Operating System: 
-Windows                  57 mins             ██████████████████████░░░   88.47% 
-Linux                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Linux                    7 mins              ███░░░░░░░░�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-3. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-4. ❗️ Opened issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-5. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-6. ❗️ Reopened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-7. ❗️ Closed issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
-8. ❗️ Opened issue [#3](https://github.com/aritrakrbasu/track-cowin-backend/issues/3) in [aritrakrbasu/track-cowin-backend](https://github.com/aritrakrbasu/track-cowin-backend)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
