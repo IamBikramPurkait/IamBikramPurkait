@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.49 % as on ⏰ 16-6-2021.
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 45.77 % as on ⏰ 17-6-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.76% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,17 +70,12 @@ Linux                    7 mins              ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-2. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-3. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/pull/4) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
-4. ❗️ Opened issue [#3](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp/issues/3) in [IamBikramPurkait/Complete-Web-Development-Bootcamp](https://github.com/IamBikramPurkait/Complete-Web-Development-Bootcamp)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
