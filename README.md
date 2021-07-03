@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.88 % as on ⏰ 2-7-2021.
+⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.15 % as on ⏰ 3-7-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.76% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C                        13 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ Windows                  13 mins             ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
