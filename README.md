@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 56.73 % as on ⏰ 27-7-2021.
+⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.00 % as on ⏰ 28-7-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.76% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
