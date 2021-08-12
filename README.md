@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.83 % as on ⏰ 11-8-2021.
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.11 % as on ⏰ 12-8-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   30.81% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-🌃 Evening    86 commits     ██████████░░░░░░░░░░░░░░░   40.76% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Wednesday    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Thursday     39 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   21.33% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      15 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ Windows                  15 mins             ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
