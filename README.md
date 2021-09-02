@@ -111,7 +111,7 @@ Windows                  1 hr 29 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+1. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
 <!--END_SECTION:activity-->
 
 </details>
