@@ -111,7 +111,7 @@ Windows                  1 hr 29 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/1) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
+1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
