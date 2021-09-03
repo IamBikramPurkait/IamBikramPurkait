@@ -111,6 +111,12 @@ Windows                  7 hrs 10 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+2. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+3. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+4. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
+5. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
+6. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/1) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
