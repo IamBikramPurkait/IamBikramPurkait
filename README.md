@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.14 % as on ⏰ 3-9-2021.
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.41 % as on ⏰ 4-9-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    65 commits     ███████░░░░░░░░░░░░░░░░░░   28.38% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.52% 
-🌃 Evening    104 commits    ███████████░░░░░░░░░░░░░░   45.41% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
-Thursday     57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.89% 
-Friday       45 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65% 
-Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   4 hrs 17 mins       ███████████████░░░░░░░░░░   59.9% 
-Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
-
-💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,19 +70,12 @@ Windows                  7 hrs 10 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-2. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-3. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-4. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-5. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-6. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/1) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
