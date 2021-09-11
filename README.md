@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.06 % as on ⏰ 10-9-2021.
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.33 % as on ⏰ 11-9-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    69 commits     ███████░░░░░░░░░░░░░░░░░░   29.61% 
-🌆 Daytime    47 commits     █████░░░░░░░░░░░░░░░░░░░░   20.17% 
-🌃 Evening    104 commits    ███████████░░░░░░░░░░░░░░   44.64% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
-Thursday     57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.46% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 11 mins             █████████████░░░░░░░░░░░░   53.29% 
-Python                   4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.51% 
-Git Config               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.04% 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,20 +70,12 @@ Windows                  21 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/3) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-2. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-3. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-4. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-6. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-7. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/1) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
