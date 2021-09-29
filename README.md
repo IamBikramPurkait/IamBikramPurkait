@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 73.99 % as on ⏰ 28-9-2021.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.26 % as on ⏰ 29-9-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    69 commits     ███████░░░░░░░░░░░░░░░░░░   29.11% 
-🌆 Daytime    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.52% 
-🌃 Evening    104 commits    ███████████░░░░░░░░░░░░░░   43.88% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-Thursday     57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,20 +70,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/3) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-2. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-3. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-4. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-5. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-6. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-7. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/1) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
