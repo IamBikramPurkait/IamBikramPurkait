@@ -107,11 +107,11 @@ Windows                  47 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/3) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-4. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-5. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+1. 💪 Opened PR [#27](https://github.com/haris989/Python-Flask-Blog/pull/27) in [haris989/Python-Flask-Blog](https://github.com/haris989/Python-Flask-Blog)
+2. 💪 Opened PR [#6](https://github.com/Ruddranil/QUADCODE/pull/6) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+3. 🗣 Commented on [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+4. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+5. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 6. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 7. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
