@@ -107,9 +107,9 @@ Windows                  47 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/3) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-3. 💪 Opened PR [#5](https://github.com/Ruddranil/QUADCODE/pull/5) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+1. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+2. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+3. ❌ Closed PR [#3](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/3) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 4. 💪 Opened PR [#3](https://github.com/Ruddranil/QUADCODE/pull/3) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
 5. 💪 Opened PR [#2](https://github.com/Ruddranil/QUADCODE/pull/2) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
 6. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
