@@ -110,11 +110,11 @@ Windows                  2 hrs 18 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/38) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. 💪 Opened PR [#38](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/38) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-3. 🗣 Commented on [#31](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/31) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-4. 🗣 Commented on [#27](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/27) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-5. 🗣 Commented on [#30](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/30) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+1. 💪 Opened PR [#234](https://github.com/Rishabh062/Hacktoberfest2021/pull/234) in [Rishabh062/Hacktoberfest2021](https://github.com/Rishabh062/Hacktoberfest2021)
+2. 💪 Opened PR [#440](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/pull/440) in [Sushreesatarupa/DSA-cpp-Hacktoberfest2021](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021)
+3. 💪 Opened PR [#406](https://github.com/keshavsingh4522/hacktoberfest2021/pull/406) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+4. 💪 Opened PR [#487](https://github.com/abhishekdoifode1/Hacktoberfest2021/pull/487) in [abhishekdoifode1/Hacktoberfest2021](https://github.com/abhishekdoifode1/Hacktoberfest2021)
+5. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Hacktoberfest2021-1/pull/1) in [IamBikramPurkait/Hacktoberfest2021-1](https://github.com/IamBikramPurkait/Hacktoberfest2021-1)
 <!--END_SECTION:activity-->
 
 </details>
