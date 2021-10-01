@@ -110,11 +110,11 @@ Windows                  2 hrs 18 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/9) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. 💪 Opened PR [#27](https://github.com/haris989/Python-Flask-Blog/pull/27) in [haris989/Python-Flask-Blog](https://github.com/haris989/Python-Flask-Blog)
-3. 💪 Opened PR [#6](https://github.com/Ruddranil/QUADCODE/pull/6) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-4. 🗣 Commented on [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-5. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+1. 🗣 Commented on [#31](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/31) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+2. 🗣 Commented on [#27](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/27) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+3. 🗣 Commented on [#30](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/30) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+4. 🗣 Commented on [#9](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/9) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+5. 💪 Opened PR [#27](https://github.com/haris989/Python-Flask-Blog/pull/27) in [haris989/Python-Flask-Blog](https://github.com/haris989/Python-Flask-Blog)
 <!--END_SECTION:activity-->
 
 </details>
