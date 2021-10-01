@@ -110,6 +110,11 @@ Windows                  2 hrs 18 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#27](https://github.com/haris989/Python-Flask-Blog/pull/27) in [haris989/Python-Flask-Blog](https://github.com/haris989/Python-Flask-Blog)
+2. 💪 Opened PR [#6](https://github.com/Ruddranil/QUADCODE/pull/6) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
+3. 🗣 Commented on [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+4. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+5. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
 
 </details>
