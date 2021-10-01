@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.54 % as on ⏰ 30-9-2021.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.81 % as on ⏰ 1-10-2021.
 
 </details>
 
@@ -62,46 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    69 commits     ███████░░░░░░░░░░░░░░░░░░   29.11% 
-🌆 Daytime    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.52% 
-🌃 Evening    104 commits    ███████████░░░░░░░░░░░░░░   43.88% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-Thursday     57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 16 mins        ██████████████░░░░░░░░░░░   55.54% 
-Markdown                 1 hr 1 min          ███████████░░░░░░░░░░░░░░   44.39% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -110,20 +70,12 @@ Windows                  2 hrs 18 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/haris989/Python-Flask-Blog/pull/27) in [haris989/Python-Flask-Blog](https://github.com/haris989/Python-Flask-Blog)
-2. 💪 Opened PR [#6](https://github.com/Ruddranil/QUADCODE/pull/6) in [Ruddranil/QUADCODE](https://github.com/Ruddranil/QUADCODE)
-3. 🗣 Commented on [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-4. 💪 Opened PR [#7](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/pull/7) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-5. ❗️ Opened issue [#4](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/4) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-6. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/pull/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
-7. 🗣 Commented on [#2](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021/issues/2) in [IamBikramPurkait/Quadcode-Project-Innovision-2021](https://github.com/IamBikramPurkait/Quadcode-Project-Innovision-2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
