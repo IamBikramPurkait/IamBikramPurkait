@@ -110,11 +110,11 @@ Windows                  2 hrs 18 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#234](https://github.com/Rishabh062/Hacktoberfest2021/pull/234) in [Rishabh062/Hacktoberfest2021](https://github.com/Rishabh062/Hacktoberfest2021)
-2. 💪 Opened PR [#440](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/pull/440) in [Sushreesatarupa/DSA-cpp-Hacktoberfest2021](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021)
-3. 💪 Opened PR [#406](https://github.com/keshavsingh4522/hacktoberfest2021/pull/406) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-4. 💪 Opened PR [#487](https://github.com/abhishekdoifode1/Hacktoberfest2021/pull/487) in [abhishekdoifode1/Hacktoberfest2021](https://github.com/abhishekdoifode1/Hacktoberfest2021)
-5. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Hacktoberfest2021-1/pull/1) in [IamBikramPurkait/Hacktoberfest2021-1](https://github.com/IamBikramPurkait/Hacktoberfest2021-1)
+1. 💪 Opened PR [#203](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/203) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
+2. 💪 Opened PR [#237](https://github.com/rjkalash/hacktoberfest2021/pull/237) in [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
+3. 💪 Opened PR [#234](https://github.com/Rishabh062/Hacktoberfest2021/pull/234) in [Rishabh062/Hacktoberfest2021](https://github.com/Rishabh062/Hacktoberfest2021)
+4. 💪 Opened PR [#440](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/pull/440) in [Sushreesatarupa/DSA-cpp-Hacktoberfest2021](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021)
+5. 💪 Opened PR [#406](https://github.com/keshavsingh4522/hacktoberfest2021/pull/406) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 </details>
