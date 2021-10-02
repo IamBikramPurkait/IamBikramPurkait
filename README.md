@@ -110,14 +110,14 @@ Windows                  3 hrs 47 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1507](https://github.com/thisisshub/HacktoberFest/pull/1507) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
-2. 💪 Opened PR [#1505](https://github.com/thisisshub/HacktoberFest/pull/1505) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
-3. 💪 Opened PR [#1503](https://github.com/thisisshub/HacktoberFest/pull/1503) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
-4. 💪 Opened PR [#1501](https://github.com/thisisshub/HacktoberFest/pull/1501) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
-5. 💪 Opened PR [#621](https://github.com/keshavsingh4522/hacktoberfest2021/pull/621) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-6. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/hacktoberfest2021-1/pull/1) in [IamBikramPurkait/hacktoberfest2021-1](https://github.com/IamBikramPurkait/hacktoberfest2021-1)
-7. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/hacktoberfest2021-1/pull/1) in [IamBikramPurkait/hacktoberfest2021-1](https://github.com/IamBikramPurkait/hacktoberfest2021-1)
-8. 💪 Opened PR [#717](https://github.com/Joonsang1994/Hacktoberfest/pull/717) in [Joonsang1994/Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
+1. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+2. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+3. ❌ Closed PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+4. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+5. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+6. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+7. 💪 Opened PR [#1507](https://github.com/thisisshub/HacktoberFest/pull/1507) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
+8. 💪 Opened PR [#1505](https://github.com/thisisshub/HacktoberFest/pull/1505) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
 <!--END_SECTION:activity-->
 
 </details>
