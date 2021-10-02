@@ -110,14 +110,14 @@ Windows                  3 hrs 47 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#549](https://github.com/abhishekdoifode1/Hacktoberfest2021/pull/549) in [abhishekdoifode1/Hacktoberfest2021](https://github.com/abhishekdoifode1/Hacktoberfest2021)
-2. 💪 Opened PR [#583](https://github.com/keshavsingh4522/hacktoberfest2021/pull/583) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
-3. 💪 Opened PR [#238](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/238) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-4. ❌ Closed PR [#237](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/237) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-5. 💪 Opened PR [#237](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/237) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-6. 🗣 Commented on [#52](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/52) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-7. 💪 Opened PR [#203](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/203) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-8. 💪 Opened PR [#237](https://github.com/rjkalash/hacktoberfest2021/pull/237) in [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
+1. 💪 Opened PR [#1507](https://github.com/thisisshub/HacktoberFest/pull/1507) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
+2. 💪 Opened PR [#1505](https://github.com/thisisshub/HacktoberFest/pull/1505) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
+3. 💪 Opened PR [#1503](https://github.com/thisisshub/HacktoberFest/pull/1503) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
+4. 💪 Opened PR [#1501](https://github.com/thisisshub/HacktoberFest/pull/1501) in [thisisshub/HacktoberFest](https://github.com/thisisshub/HacktoberFest)
+5. 💪 Opened PR [#621](https://github.com/keshavsingh4522/hacktoberfest2021/pull/621) in [keshavsingh4522/hacktoberfest2021](https://github.com/keshavsingh4522/hacktoberfest2021)
+6. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/hacktoberfest2021-1/pull/1) in [IamBikramPurkait/hacktoberfest2021-1](https://github.com/IamBikramPurkait/hacktoberfest2021-1)
+7. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/hacktoberfest2021-1/pull/1) in [IamBikramPurkait/hacktoberfest2021-1](https://github.com/IamBikramPurkait/hacktoberfest2021-1)
+8. 💪 Opened PR [#717](https://github.com/Joonsang1994/Hacktoberfest/pull/717) in [Joonsang1994/Hacktoberfest](https://github.com/Joonsang1994/Hacktoberfest)
 <!--END_SECTION:activity-->
 
 </details>
