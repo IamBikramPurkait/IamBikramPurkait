@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.81 % as on ⏰ 1-10-2021.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.08 % as on ⏰ 2-10-2021.
 
 </details>
 
@@ -62,46 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    69 commits     ███████░░░░░░░░░░░░░░░░░░   29.11% 
-🌆 Daytime    51 commits     █████░░░░░░░░░░░░░░░░░░░░   21.52% 
-🌃 Evening    104 commits    ███████████░░░░░░░░░░░░░░   43.88% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-Thursday     57 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Saturday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 21 mins       ███████████████░░░░░░░░░░   62.07% 
-Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   34.35% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
-
-💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -110,18 +70,12 @@ Windows                  3 hrs 47 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/52) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. 💪 Opened PR [#203](https://github.com/ron2111/Hacktoberfest2021_awesome-projects/pull/203) in [ron2111/Hacktoberfest2021_awesome-projects](https://github.com/ron2111/Hacktoberfest2021_awesome-projects)
-3. 💪 Opened PR [#237](https://github.com/rjkalash/hacktoberfest2021/pull/237) in [rjkalash/hacktoberfest2021](https://github.com/rjkalash/hacktoberfest2021)
-4. 💪 Opened PR [#234](https://github.com/Rishabh062/Hacktoberfest2021/pull/234) in [Rishabh062/Hacktoberfest2021](https://github.com/Rishabh062/Hacktoberfest2021)
-5. 💪 Opened PR [#440](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/pull/440) in [Sushreesatarupa/DSA-cpp-Hacktoberfest2021](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
