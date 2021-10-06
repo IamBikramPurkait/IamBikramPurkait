@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.90 % as on ⏰ 5-10-2021.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 76.18 % as on ⏰ 6-10-2021.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.68% 
-🌃 Evening    104 commits    ██████████░░░░░░░░░░░░░░░   41.77% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Thursday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.89% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 27 mins       ██████████████░░░░░░░░░░░   58.17% 
-Markdown                 1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   30.88% 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
-
-💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  4 hrs 13 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/73) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. 🗣 Commented on [#78](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/78) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-3. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-4. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-5. ❌ Closed PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-6. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-7. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-8. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
