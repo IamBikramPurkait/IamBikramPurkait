@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.38 % as on ⏰ 25-10-2021.
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.66 % as on ⏰ 26-10-2021.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.68% 
-🌃 Evening    104 commits    ██████████░░░░░░░░░░░░░░░   41.77% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Thursday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.89% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     19 mins             ████████████████████████░   97.69% 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
-
-💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -108,21 +70,12 @@ Windows                  19 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/73) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-2. 🗣 Commented on [#78](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/78) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
-3. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-4. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-5. ❌ Closed PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-6. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-7. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
-8. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
