@@ -107,6 +107,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#73](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/73) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+2. 🗣 Commented on [#78](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts/issues/78) in [GDSC-RCCIIT/General-Purpose-Scripts](https://github.com/GDSC-RCCIIT/General-Purpose-Scripts)
+3. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+4. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/4) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+5. ❌ Closed PR [#2](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/2) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
+6. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/General-Purpose-Scripts/pull/3) in [IamBikramPurkait/General-Purpose-Scripts](https://github.com/IamBikramPurkait/General-Purpose-Scripts)
 <!--END_SECTION:activity-->
 
 </details>
