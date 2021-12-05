@@ -114,7 +114,7 @@ Windows                  46 mins             ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
