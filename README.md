@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.08 % as on ⏰ 14-12-2021.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 95.36 % as on ⏰ 15-12-2021.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   33.2% 
-🌆 Daytime    49 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-🌃 Evening    104 commits    ██████████░░░░░░░░░░░░░░░   41.6% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Thursday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    3 hrs 48 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ Windows                  3 hrs 48 mins       ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A programmer developed an operating system called TempleOS in Hospitalized for mental health problems, he believes that TempleOS is literally the Third Temple as biblically prophesied. Per God’s “instructions,” the OS uses a 640×480, 16 color display, and uses the language HolyC.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
