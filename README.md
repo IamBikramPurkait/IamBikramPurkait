@@ -116,6 +116,7 @@ Windows                  9 hrs 56 mins       ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
