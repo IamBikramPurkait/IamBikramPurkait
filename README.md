@@ -111,6 +111,7 @@ Windows                  2 hrs 9 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Cats-Vs-Dogs/pull/1) in [IamBikramPurkait/Cats-Vs-Dogs](https://github.com/IamBikramPurkait/Cats-Vs-Dogs)
 <!--END_SECTION:activity-->
 
 </details>
