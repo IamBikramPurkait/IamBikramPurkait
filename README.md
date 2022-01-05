@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.84 % as on ⏰ 4-1-2022.
+⏳ **Year Progress** { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.11 % as on ⏰ 5-1-2022.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   31.8% 
-🌆 Daytime    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-🌃 Evening    115 commits    ███████████░░░░░░░░░░░░░░   44.06% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Thursday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   25.29% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Saturday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     1 hr 4 mins         ██████████████░░░░░░░░░░░   58.25% 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-C                        20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
-
-💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,14 +70,12 @@ Windows                  1 hr 51 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Cats-Vs-Dogs/pull/1) in [IamBikramPurkait/Cats-Vs-Dogs](https://github.com/IamBikramPurkait/Cats-Vs-Dogs)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
