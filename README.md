@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.67 % as on ⏰ 18-1-2022.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.95 % as on ⏰ 19-1-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   31.8% 
-🌆 Daytime    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-🌃 Evening    115 commits    ███████████░░░░░░░░░░░░░░   44.06% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-Tuesday      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Wednesday    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Thursday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   25.29% 
-Friday       45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Saturday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,14 +70,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/Cats-Vs-Dogs/pull/1) in [IamBikramPurkait/Cats-Vs-Dogs](https://github.com/IamBikramPurkait/Cats-Vs-Dogs)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
