@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.66 % as on ⏰ 21-3-2022.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.94 % as on ⏰ 22-3-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    79 commits     ████████░░░░░░░░░░░░░░░░░   32.11% 
-🌆 Daytime    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-🌃 Evening    111 commits    ███████████░░░░░░░░░░░░░░   45.12% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Wednesday    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     1 hr 12 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ Windows                  1 hr 12 mins        ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
