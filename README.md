@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.49 % as on ⏰ 24-3-2022.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.76 % as on ⏰ 25-3-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    79 commits     ████████░░░░░░░░░░░░░░░░░   32.11% 
-🌆 Daytime    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-🌃 Evening    111 commits    ███████████░░░░░░░░░░░░░░   45.12% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Wednesday    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
