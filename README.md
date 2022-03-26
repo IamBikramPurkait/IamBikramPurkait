@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.76 % as on ⏰ 25-3-2022.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.03 % as on ⏰ 26-3-2022.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    79 commits     ████████░░░░░░░░░░░░░░░░░   32.11% 
-🌆 Daytime    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-🌃 Evening    111 commits    ███████████░░░░░░░░░░░░░░   45.12% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Wednesday    41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-Saturday     40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   100.0% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -114,7 +76,6 @@ Windows                  5 mins              ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
