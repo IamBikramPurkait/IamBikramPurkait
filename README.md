@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.23 % as on ⏰ 3-4-2022.
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.50 % as on ⏰ 4-4-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    73 commits     ████████░░░░░░░░░░░░░░░░░   34.6% 
-🌆 Daytime    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-🌃 Evening    94 commits     ███████████░░░░░░░░░░░░░░   44.55% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Thursday     64 commits     ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
