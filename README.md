@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.32 % as on ⏰ 7-4-2022.
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.60 % as on ⏰ 8-4-2022.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    73 commits     ████████░░░░░░░░░░░░░░░░░   34.6% 
-🌆 Daytime    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-🌃 Evening    94 commits     ███████████░░░░░░░░░░░░░░   44.55% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Thursday     64 commits     ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     5 hrs 26 mins       ███████████████████████░░   92.99% 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
-
-💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -114,7 +76,6 @@ Windows                  5 hrs 50 mins       ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Steve Jobs wanted to hide a man wearing a fedora on the first Mac. Dubbed “Mr. Macintosh,” the character would appear after opening the menu bar several thousand times then quickly disappear, leaving users to question their sanity. The idea was scrapped due to Mac’s paltry 128KB of RAM.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
