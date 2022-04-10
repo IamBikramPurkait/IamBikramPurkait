@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.87 % as on ⏰ 9-4-2022.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.14 % as on ⏰ 10-4-2022.
 
 </details>
 
@@ -62,45 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    73 commits     ████████░░░░░░░░░░░░░░░░░   34.6% 
-🌆 Daytime    38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-🌃 Evening    94 commits     ███████████░░░░░░░░░░░░░░   44.55% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Wednesday    35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Thursday     64 commits     ███████░░░░░░░░░░░░░░░░░░   30.33% 
-Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     7 hrs 6 mins        ██████████████████████░░░   87.99% 
-XML                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
-
-💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -115,7 +76,6 @@ Windows                  8 hrs 5 mins        ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
