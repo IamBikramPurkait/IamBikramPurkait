@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.63 % as on ⏰ 30-4-2022.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.91 % as on ⏰ 1-5-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    73 commits     █████████░░░░░░░░░░░░░░░░   35.78% 
-🌆 Daytime    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-🌃 Evening    88 commits     ██████████░░░░░░░░░░░░░░░   43.14% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-Wednesday    34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Thursday     64 commits     ███████░░░░░░░░░░░░░░░░░░   31.37% 
-Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Saturday     34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
