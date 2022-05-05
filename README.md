@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.72 % as on ⏰ 4-5-2022.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.00 % as on ⏰ 5-5-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    35 commits     ████████░░░░░░░░░░░░░░░░░   33.65% 
-🌆 Daytime    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-🌃 Evening    43 commits     ██████████░░░░░░░░░░░░░░░   41.35% 
-🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
-Tuesday      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Wednesday    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
-Thursday     32 commits     ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     25 commits     ██████░░░░░░░░░░░░░░░░░░░   24.04% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
