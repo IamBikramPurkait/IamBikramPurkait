@@ -91,10 +91,10 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
