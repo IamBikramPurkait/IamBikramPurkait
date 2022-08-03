@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.39 % as on ⏰ 2-8-2022.
+⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.66 % as on ⏰ 3-8-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    28 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
-🌆 Daytime    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-🌃 Evening    36 commits     ███████████░░░░░░░░░░░░░░   46.75% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Wednesday    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Thursday     27 commits     ████████░░░░░░░░░░░░░░░░░   35.06% 
-Friday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Saturday     24 commits     ███████░░░░░░░░░░░░░░░░░░   31.17% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
