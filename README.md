@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.41 % as on ⏰ 24-8-2022.
+⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.69 % as on ⏰ 25-8-2022.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    28 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
-🌆 Daytime    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-🌃 Evening    36 commits     ███████████░░░░░░░░░░░░░░   46.75% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-Wednesday    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
-Thursday     27 commits     ████████░░░░░░░░░░░░░░░░░   35.06% 
-Friday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-Saturday     24 commits     ███████░░░░░░░░░░░░░░░░░░   31.17% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      2 hrs 54 mins       ████████████████████████░   98.23% 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
-
-💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -114,7 +76,6 @@ Windows                  2 hrs 57 mins       ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
