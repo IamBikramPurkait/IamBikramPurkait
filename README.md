@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 79.76 % as on ⏰ 19-10-2022.
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 80.03 % as on ⏰ 20-10-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    27 commits     █████████████████████░░░░   84.38% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     25 commits     ███████████████████░░░░░░   78.12% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
