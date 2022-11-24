@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 89.34 % as on ⏰ 23-11-2022.
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 89.61 % as on ⏰ 24-11-2022.
 
 </details>
 
@@ -62,46 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    28 commits     ███████████████░░░░░░░░░░   59.57% 
-🌙 Night      15 commits     ████████░░░░░░░░░░░░░░░░░   31.91%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Thursday     25 commits     █████████████░░░░░░░░░░░░   53.19% 
-Friday       8 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Saturday     6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   7 hrs 4 mins        ████████████████████████░   98.58% 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -110,16 +70,12 @@ Windows                  7 hrs 10 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/IamBikramPurkait/River-Monitor/issues/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-2. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-3. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
