@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 92.62 % as on ⏰ 5-12-2022.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 92.90 % as on ⏰ 6-12-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    28 commits     ██████████████░░░░░░░░░░░   58.33% 
-🌙 Night      15 commits     ███████░░░░░░░░░░░░░░░░░░   31.25%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
-Wednesday    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Thursday     25 commits     █████████████░░░░░░░░░░░░   52.08% 
-Friday       8 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Saturday     6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,17 +70,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-2. 🗣 Commented on [#1](https://github.com/IamBikramPurkait/River-Monitor/issues/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
