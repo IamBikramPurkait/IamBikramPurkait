@@ -107,6 +107,10 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
+2. 🗣 Commented on [#1](https://github.com/IamBikramPurkait/River-Monitor/issues/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
+3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
+4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
