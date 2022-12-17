@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.64 % as on ⏰ 16-12-2022.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 95.91 % as on ⏰ 17-12-2022.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    12 commits     ███████████░░░░░░░░░░░░░░   44.44% 
-🌙 Night      14 commits     █████████████░░░░░░░░░░░░   51.85%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Wednesday    6 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Thursday     9 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       8 commits      ███████░░░░░░░░░░░░░░░░░░   29.63% 
-Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,17 +70,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-2. 🗣 Commented on [#1](https://github.com/IamBikramPurkait/River-Monitor/issues/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
