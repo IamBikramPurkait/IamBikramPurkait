@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 8.79 % as on ⏰ 2-2-2023.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.06 % as on ⏰ 3-2-2023.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌙 Night      14 commits     ██████████████████████░░░   87.5%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    6 commits      █████████░░░░░░░░░░░░░░░░   37.5% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       8 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     28 mins             ███████████████████░░░░░░   76.63% 
-JavaScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   23.37%
-
-💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -108,17 +70,12 @@ Windows                  36 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-2. 🗣 Commented on [#1](https://github.com/IamBikramPurkait/River-Monitor/issues/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-3. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
-4. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/River-Monitor/pull/1) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
