@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.71 % as on ⏰ 9-2-2023.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.98 % as on ⏰ 10-2-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌙 Night      14 commits     ██████████████████████░░░   87.5%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    6 commits      █████████░░░░░░░░░░░░░░░░   37.5% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       8 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 11 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,14 +70,12 @@ Windows                  2 hrs 11 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Amazon was a hard cover book seller, but actually now sells more e-books than hard covers❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
