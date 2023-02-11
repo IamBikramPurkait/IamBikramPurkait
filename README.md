@@ -107,6 +107,7 @@ Windows                  4 hrs 45 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
