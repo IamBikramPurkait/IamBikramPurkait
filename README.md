@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.25 % as on ⏰ 11-2-2023.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.53 % as on ⏰ 12-2-2023.
 
 </details>
 
@@ -62,45 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-🌙 Night      28 commits     ███████████████████████░░   93.33%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-Wednesday    6 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       8 commits      ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       14 commits     ███████████░░░░░░░░░░░░░░   46.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   12 hrs 7 mins       █████████████████████████   99.84% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-💻 Operating System: 
-Windows                  12 hrs 8 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -109,14 +70,12 @@ Windows                  12 hrs 8 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/River-Monitor/pull/2) in [IamBikramPurkait/River-Monitor](https://github.com/IamBikramPurkait/River-Monitor)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
