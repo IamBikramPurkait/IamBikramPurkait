@@ -112,9 +112,9 @@ Windows                  31 hrs 34 mins      ███████████�
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❌ Closed PR [#1](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/1) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+2. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+3. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+4. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
