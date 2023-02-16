@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 12.35 % as on ⏰ 15-2-2023.
+⏳ **Year Progress** { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 12.62 % as on ⏰ 16-2-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-🌆 Daytime    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-🌙 Night      29 commits     ██████████████████████░░░   87.88%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Wednesday    23 commits     █████████████████░░░░░░░░   69.7% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       8 commits      ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   37 hrs 14 mins      ████████████████████████░   96.88% 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
-
-💻 Operating System: 
-Windows                  38 hrs 25 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  38 hrs 25 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. 💪 Opened PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#1](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/1) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 💪 Opened PR [#1](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/1) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 🎉 Merged PR [#2](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/2) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
