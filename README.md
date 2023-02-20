@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.45 % as on ⏰ 19-2-2023.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.72 % as on ⏰ 20-2-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-🌆 Daytime    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-🌙 Night      40 commits     ██████████████████░░░░░░░   75.47%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-Wednesday    25 commits     ███████████░░░░░░░░░░░░░░   47.17% 
-Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   34 hrs 43 mins      ████████████████████████░   98.14% 
-Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
-
-💻 Operating System: 
-Windows                  35 hrs 23 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  35 hrs 23 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/6) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 💪 Opened PR [#6](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/6) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 🎉 Merged PR [#5](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/5) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. 💪 Opened PR [#5](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/5) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/4) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/4) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 🎉 Merged PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 💪 Opened PR [#3](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/3) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In May 1997, an IBM supercomputer known as Deep Blue beat then chess world champion Garry Kasparov, who had once bragged that he would never lose to a machine. After 15 years, it was discovered that the critical move made by Deep Blue was due to a bug in its software.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
