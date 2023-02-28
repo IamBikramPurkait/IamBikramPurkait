@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.64 % as on ⏰ 27-2-2023.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.91 % as on ⏰ 28-2-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-🌆 Daytime    8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-🌙 Night      42 commits     ███████████████████░░░░░░   76.36%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-Wednesday    25 commits     ███████████░░░░░░░░░░░░░░   45.45% 
-Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Friday       13 commits     ██████░░░░░░░░░░░░░░░░░░░   23.64% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 1 min         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,21 +70,12 @@ Windows                  3 hrs 1 min         ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 💪 Opened PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 🎉 Merged PR [#6](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/6) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. 💪 Opened PR [#6](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/6) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#5](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/5) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 💪 Opened PR [#5](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/5) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 🎉 Merged PR [#4](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/4) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 💪 Opened PR [#4](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/4) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
