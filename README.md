@@ -70,6 +70,14 @@
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#8](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/8) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+2. 🎉 Merged PR [#11](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/11) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+3. 💪 Opened PR [#11](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/11) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+4. ❗️ Opened issue [#10](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/10) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+5. ❗️ Opened issue [#9](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/9) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+6. ❗️ Opened issue [#8](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/8) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+7. 🎉 Merged PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
+8. 💪 Opened PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
