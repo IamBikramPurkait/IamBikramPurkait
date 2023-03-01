@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.91 % as on ⏰ 28-2-2023.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.19 % as on ⏰ 1-3-2023.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-🌆 Daytime    10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-🌙 Night      42 commits     ██████████████████░░░░░░░   73.68%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Tuesday      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-Wednesday    25 commits     ███████████░░░░░░░░░░░░░░   43.86% 
-Thursday     8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Friday       13 commits     █████░░░░░░░░░░░░░░░░░░░░   22.81% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   6 hrs 40 mins       █████████████████████████   99.86% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
-
-💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -108,21 +70,12 @@ Windows                  6 hrs 41 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/8) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#11](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/11) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#11](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/11) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❗️ Opened issue [#10](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/10) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. ❗️ Opened issue [#9](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/9) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. ❗️ Opened issue [#8](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/8) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 🎉 Merged PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 💪 Opened PR [#7](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/7) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
