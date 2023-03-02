@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.19 % as on ⏰ 1-3-2023.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.46 % as on ⏰ 2-3-2023.
 
 </details>
 
@@ -62,45 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29% 
-🌆 Daytime    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-🌙 Night      42 commits     ███████████████░░░░░░░░░░   60.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Wednesday    38 commits     █████████████░░░░░░░░░░░░   54.29% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Friday       13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   9 hrs 14 mins       █████████████████████████   99.82% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Windows                  9 hrs 15 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -109,21 +70,12 @@ Windows                  9 hrs 15 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/12) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#15](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/15) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#15](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/15) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❗️ Reopened issue [#12](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/12) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. ❗️ Closed issue [#12](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/12) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 🎉 Merged PR [#14](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/14) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 💪 Opened PR [#14](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/14) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 🎉 Merged PR [#13](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/13) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
