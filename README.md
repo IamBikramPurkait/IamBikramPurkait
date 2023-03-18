@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.57 % as on ⏰ 17-3-2023.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.84 % as on ⏰ 18-3-2023.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-🌆 Daytime    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-🌃 Evening    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
-🌙 Night      46 commits     ███████████████░░░░░░░░░░   60.53%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
-Wednesday    38 commits     ████████████░░░░░░░░░░░░░   50.0% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Java                     5 hrs 18 mins       █████████████████████░░░░   86.1% 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
-
-💻 Operating System: 
-Windows                  6 hrs 9 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -108,21 +70,12 @@ Windows                  6 hrs 9 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❗️ Opened issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. ❗️ Closed issue [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 🗣 Commented on [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
