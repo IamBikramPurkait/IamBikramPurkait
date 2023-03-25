@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.48 % as on ⏰ 24-3-2023.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.76 % as on ⏰ 25-3-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-🌆 Daytime    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
-🌙 Night      46 commits     ███████████████░░░░░░░░░░   59.74%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Wednesday    39 commits     ████████████░░░░░░░░░░░░░   50.65% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 36 mins       ████████████████░░░░░░░░░   65.96% 
-Java                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91% 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
-
-💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  3 hrs 56 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❗️ Opened issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. ❗️ Closed issue [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 🗣 Commented on [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
