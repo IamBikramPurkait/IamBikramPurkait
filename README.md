@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.77 % as on ⏰ 5-4-2023.
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.05 % as on ⏰ 6-4-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-🌆 Daytime    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌙 Night      46 commits     ██████████████░░░░░░░░░░░   57.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    39 commits     ████████████░░░░░░░░░░░░░   48.75% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               5 hrs 11 mins       ████████████████████████░   98.25% 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
-
-💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  5 hrs 17 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-2. 🎉 Merged PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 💪 Opened PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. ❗️ Opened issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. ❗️ Closed issue [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 🗣 Commented on [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
