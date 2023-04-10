@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.87 % as on ⏰ 9-4-2023.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.14 % as on ⏰ 10-4-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-🌆 Daytime    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌙 Night      46 commits     ██████████████░░░░░░░░░░░   57.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    39 commits     ████████████░░░░░░░░░░░░░   48.75% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               8 hrs 34 mins       ████████████████████░░░░░   82.78% 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
-
-💻 Operating System: 
-Windows                  10 hrs 22 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  10 hrs 22 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/samaddershouvik/RiverErosion/pull/1) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 🎉 Merged PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. 💪 Opened PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. ❗️ Opened issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. ❗️ Closed issue [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
