@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.42 % as on ⏰ 11-4-2023.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.69 % as on ⏰ 12-4-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-🌆 Daytime    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-🌙 Night      46 commits     ██████████████░░░░░░░░░░░   57.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Wednesday    39 commits     ████████████░░░░░░░░░░░░░   48.75% 
-Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               15 hrs              █████████████████████░░░░   86.28% 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
-HTML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
-
-💻 Operating System: 
-Windows                  17 hrs 24 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  17 hrs 24 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/samaddershouvik/RiverErosion/pull/1) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-3. 🎉 Merged PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-4. 💪 Opened PR [#20](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/20) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-5. ❗️ Opened issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-6. 🎉 Merged PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-7. ❗️ Closed issue [#16](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/16) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
-8. 💪 Opened PR [#18](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/pull/18) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
