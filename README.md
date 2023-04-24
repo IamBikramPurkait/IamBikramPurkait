@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.71 % as on ⏰ 23-4-2023.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.98 % as on ⏰ 24-4-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-🌆 Daytime    14 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-🌃 Evening    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-🌙 Night      50 commits     ██████████████░░░░░░░░░░░   58.14%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
-Wednesday    39 commits     ███████████░░░░░░░░░░░░░░   45.35% 
-Thursday     10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Friday       17 commits     █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   7 hrs 6 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  7 hrs 6 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,18 +70,12 @@ Windows                  7 hrs 6 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#1](https://github.com/samaddershouvik/RiverErosion/pull/1) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#1](https://github.com/samaddershouvik/RiverErosion/pull/1) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. ❗️ Closed issue [#19](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot/issues/19) in [IamBikramPurkait/NewsDown-Telegram-Bot](https://github.com/IamBikramPurkait/NewsDown-Telegram-Bot)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
