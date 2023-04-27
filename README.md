@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.52 % as on ⏰ 26-4-2023.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.80 % as on ⏰ 27-4-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-🌆 Daytime    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-🌙 Night      50 commits     █████████████░░░░░░░░░░░░   54.95%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-Wednesday    44 commits     ████████████░░░░░░░░░░░░░   48.35% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Friday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   9 hrs 36 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  9 hrs 36 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,19 +70,12 @@ Windows                  9 hrs 36 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
