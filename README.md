@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.35 % as on ⏰ 29-4-2023.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.62 % as on ⏰ 30-4-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-🌆 Daytime    14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-🌃 Evening    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-🌙 Night      50 commits     █████████████░░░░░░░░░░░░   53.76%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Wednesday    44 commits     ███████████░░░░░░░░░░░░░░   47.31% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-Friday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   20.43% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   12 hrs 42 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  12 hrs 42 mins      █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,21 +70,12 @@ Windows                  12 hrs 42 mins      ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-7. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-8. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
