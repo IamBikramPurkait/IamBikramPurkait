@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.72 % as on ⏰ 4-5-2023.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.99 % as on ⏰ 5-5-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
-🌃 Evening    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
-🌙 Night      50 commits     ████████████░░░░░░░░░░░░░   49.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Wednesday    44 commits     ███████████░░░░░░░░░░░░░░   43.56% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 7 mins        ██████████████████████░░░   89.95% 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
-
-💻 Operating System: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  3 hrs 28 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-7. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-8. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
