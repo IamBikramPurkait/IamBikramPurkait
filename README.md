@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.81 % as on ⏰ 8-5-2023.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.09 % as on ⏰ 9-5-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
-🌃 Evening    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
-🌙 Night      50 commits     ████████████░░░░░░░░░░░░░   49.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Wednesday    44 commits     ███████████░░░░░░░░░░░░░░   43.56% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -107,21 +70,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-7. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-8. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
