@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.46 % as on ⏰ 14-5-2023.
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.73 % as on ⏰ 15-5-2023.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
-🌃 Evening    16 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
-🌙 Night      50 commits     ████████████░░░░░░░░░░░░░   49.5%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Tuesday      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95% 
-Wednesday    44 commits     ███████████░░░░░░░░░░░░░░   43.56% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   31 mins             ████████████████████████░   96.64% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
-
-💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -108,21 +70,12 @@ Windows                  33 mins             ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#3](https://github.com/samaddershouvik/RiverErosion/pull/3) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-7. 🎉 Merged PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-8. 💪 Opened PR [#2](https://github.com/samaddershouvik/RiverErosion/pull/2) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
