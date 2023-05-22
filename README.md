@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.38 % as on ⏰ 21-5-2023.
+⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.65 % as on ⏰ 22-5-2023.
 
 </details>
 
@@ -62,47 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
-🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-🌃 Evening    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌙 Night      53 commits     ████████████░░░░░░░░░░░░░   50.96%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-Tuesday      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Wednesday    44 commits     ██████████░░░░░░░░░░░░░░░   42.31% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 59 mins       ██████████████████░░░░░░░   72.85% 
-HTML                     1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   26.14% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -111,21 +70,12 @@ Windows                  5 hrs 28 mins       ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-2. 💪 Opened PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-3. 🎉 Merged PR [#6](https://github.com/samaddershouvik/RiverErosion/pull/6) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-4. 💪 Opened PR [#6](https://github.com/samaddershouvik/RiverErosion/pull/6) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-5. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-6. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-7. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
-8. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
