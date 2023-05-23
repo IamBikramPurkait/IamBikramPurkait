@@ -111,6 +111,14 @@ Windows                  3 hrs 7 mins        ███████████�
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+2. 💪 Opened PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+3. 🎉 Merged PR [#6](https://github.com/samaddershouvik/RiverErosion/pull/6) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+4. 💪 Opened PR [#6](https://github.com/samaddershouvik/RiverErosion/pull/6) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+5. 🎉 Merged PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+6. 💪 Opened PR [#5](https://github.com/samaddershouvik/RiverErosion/pull/5) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+7. 🎉 Merged PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+8. 💪 Opened PR [#4](https://github.com/samaddershouvik/RiverErosion/pull/4) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
