@@ -107,6 +107,12 @@ No Activity Tracked This Week
 <summary>⚡ <em>Recent Activity</em></summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#9](https://github.com/samaddershouvik/RiverErosion/pull/9) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+2. 💪 Opened PR [#9](https://github.com/samaddershouvik/RiverErosion/pull/9) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+3. 🎉 Merged PR [#8](https://github.com/samaddershouvik/RiverErosion/pull/8) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+4. 💪 Opened PR [#8](https://github.com/samaddershouvik/RiverErosion/pull/8) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+5. 🎉 Merged PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
+6. 💪 Opened PR [#7](https://github.com/samaddershouvik/RiverErosion/pull/7) in [samaddershouvik/RiverErosion](https://github.com/samaddershouvik/RiverErosion)
 <!--END_SECTION:activity-->
 
 </details>
