@@ -119,7 +119,7 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
+<i>❝“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
