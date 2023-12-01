@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 91.25 % as on ⏰ 30-11-2023.
+⏳ **Year Progress** { ███████████████████████████▁▁▁ } 91.52 % as on ⏰ 1-12-2023.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-🌃 Evening    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-🌙 Night      53 commits     ████████████░░░░░░░░░░░░░   48.62%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.26% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-Wednesday    44 commits     ██████████░░░░░░░░░░░░░░░   40.37% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
-Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-Sunday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
