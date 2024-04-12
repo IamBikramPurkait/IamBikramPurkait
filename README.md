@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.61 % as on ⏰ 11-4-2024.
+⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.88 % as on ⏰ 12-4-2024.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-🌆 Daytime    6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-🌃 Evening    21 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
-🌙 Night      21 commits     ██████████░░░░░░░░░░░░░░░   42.86%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Tuesday      8 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Wednesday    12 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Friday       10 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Saturday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
