@@ -113,7 +113,7 @@ No Activity Tracked This Week
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  ❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
