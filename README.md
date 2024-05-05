@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.89 % as on ⏰ 4-5-2024.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.17 % as on ⏰ 5-5-2024.
 
 </details>
 
@@ -62,44 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-🌃 Evening    17 commits     █████████████████░░░░░░░░   68.0% 
-🌙 Night      6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Saturday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Sunday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     1 hr 18 mins        ████████████████████████░   99.17% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
-
-💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -114,7 +76,6 @@ Windows                  1 hr 19 mins        ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
