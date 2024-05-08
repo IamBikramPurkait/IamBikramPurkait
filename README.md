@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.71 % as on ⏰ 7-5-2024.
+⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.99 % as on ⏰ 8-5-2024.
 
 </details>
 
@@ -62,43 +62,6 @@
 <summary>⚡ <em>Waka Stats</em></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-🌃 Evening    17 commits     █████████████████░░░░░░░░   68.0% 
-🌙 Night      6 commits      ██████░░░░░░░░░░░░░░░░░░░   24.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      7 commits      ███████░░░░░░░░░░░░░░░░░░   28.0% 
-Wednesday    5 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Friday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Saturday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Sunday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     1 hr 7 mins         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 </details>
@@ -113,7 +76,6 @@ Windows                  1 hr 7 mins         ███████████�
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
