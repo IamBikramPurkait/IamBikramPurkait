@@ -91,10 +91,10 @@ Sunday       3 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
