@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.20 % as on ⏰ 29-6-2024.
+⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.47 % as on ⏰ 30-6-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
