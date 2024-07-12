@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.48 % as on ⏰ 11-7-2024.
+⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.75 % as on ⏰ 12-7-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
