@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.12 % as on ⏰ 17-7-2024.
+⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.39 % as on ⏰ 18-7-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
