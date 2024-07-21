@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.94 % as on ⏰ 20-7-2024.
+⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 55.21 % as on ⏰ 21-7-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
