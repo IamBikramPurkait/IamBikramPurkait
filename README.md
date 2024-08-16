@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.04 % as on ⏰ 15-8-2024.
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 62.31 % as on ⏰ 16-8-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
