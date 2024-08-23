@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 63.95 % as on ⏰ 22-8-2024.
+⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.23 % as on ⏰ 23-8-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
