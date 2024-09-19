@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.33 % as on ⏰ 18-9-2024.
+⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.60 % as on ⏰ 19-9-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝China has the highest number of internet users in the whole world with over 746 million active users.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
