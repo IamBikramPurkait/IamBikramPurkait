@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.88 % as on ⏰ 20-9-2024.
+⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.15 % as on ⏰ 21-9-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
