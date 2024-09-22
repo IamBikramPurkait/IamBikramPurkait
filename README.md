@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.15 % as on ⏰ 21-9-2024.
+⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.43 % as on ⏰ 22-9-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
