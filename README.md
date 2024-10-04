@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.43 % as on ⏰ 3-10-2024.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.70 % as on ⏰ 4-10-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
