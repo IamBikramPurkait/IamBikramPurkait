@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.55 % as on ⏰ 20-11-2024.
+⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 88.82 % as on ⏰ 21-11-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
