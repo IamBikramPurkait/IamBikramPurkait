@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 96.47 % as on ⏰ 19-12-2024.
+⏳ **Year Progress** { █████████████████████████████▁ } 96.74 % as on ⏰ 20-12-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
