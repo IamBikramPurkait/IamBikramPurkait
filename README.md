@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████████████▁ } 98.38 % as on ⏰ 26-12-2024.
+⏳ **Year Progress** { █████████████████████████████▁ } 98.65 % as on ⏰ 27-12-2024.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
