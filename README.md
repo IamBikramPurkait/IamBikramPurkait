@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.27 % as on ⏰ 22-2-2025.
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.54 % as on ⏰ 23-2-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
