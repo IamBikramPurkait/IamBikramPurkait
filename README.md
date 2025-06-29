@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 48.79 % as on ⏰ 28-6-2025.
+⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.07 % as on ⏰ 29-6-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
