@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.44 % as on ⏰ 4-7-2025.
+⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.71 % as on ⏰ 5-7-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
