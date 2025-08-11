@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.58 % as on ⏰ 10-8-2025.
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 60.85 % as on ⏰ 11-8-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
