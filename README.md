@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.50 % as on ⏰ 28-8-2025.
+⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.78 % as on ⏰ 29-8-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
