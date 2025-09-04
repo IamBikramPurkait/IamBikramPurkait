@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.14 % as on ⏰ 3-9-2025.
+⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.42 % as on ⏰ 4-9-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
