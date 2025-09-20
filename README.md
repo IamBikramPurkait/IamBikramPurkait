@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.53 % as on ⏰ 19-9-2025.
+⏳ **Year Progress** { █████████████████████▁▁▁▁▁▁▁▁▁ } 71.80 % as on ⏰ 20-9-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
