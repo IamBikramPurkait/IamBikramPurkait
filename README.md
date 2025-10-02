@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.82 % as on ⏰ 1-10-2025.
+⏳ **Year Progress** { ██████████████████████▁▁▁▁▁▁▁▁ } 75.09 % as on ⏰ 2-10-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
