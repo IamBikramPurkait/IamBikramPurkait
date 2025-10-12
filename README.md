@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 77.56 % as on ⏰ 11-10-2025.
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 77.83 % as on ⏰ 12-10-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
