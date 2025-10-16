@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.65 % as on ⏰ 15-10-2025.
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.93 % as on ⏰ 16-10-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
