@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 96.46 % as on ⏰ 19-12-2025.
+⏳ **Year Progress** { █████████████████████████████▁ } 96.74 % as on ⏰ 20-12-2025.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
