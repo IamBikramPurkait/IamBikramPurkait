@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.23 % as on ⏰ 20-1-2026.
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5.51 % as on ⏰ 21-1-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
