@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.70 % as on ⏰ 29-1-2026.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.98 % as on ⏰ 30-1-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
