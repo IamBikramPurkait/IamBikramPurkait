@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.65 % as on ⏰ 30-4-2026.
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 32.92 % as on ⏰ 1-5-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In May 1997, an IBM supercomputer known as Deep Blue beat then chess world champion Garry Kasparov, who had once bragged that he would never lose to a machine. After 15 years, it was discovered that the critical move made by Deep Blue was due to a bug in its software.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
