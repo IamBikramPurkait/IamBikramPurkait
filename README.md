@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.89 % as on ⏰ 10-6-2026.
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.16 % as on ⏰ 11-6-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
