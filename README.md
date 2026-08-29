@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.61 % as on ⏰ 28-8-2026.
+⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 65.83 % as on ⏰ 29-8-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
