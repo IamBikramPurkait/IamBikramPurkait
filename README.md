@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 78.95 % as on ⏰ 16-10-2026.
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 79.23 % as on ⏰ 17-10-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
