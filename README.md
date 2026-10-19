@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 79.50 % as on ⏰ 18-10-2026.
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 79.78 % as on ⏰ 19-10-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
