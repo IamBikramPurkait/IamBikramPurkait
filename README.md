@@ -15,7 +15,7 @@
 <details>
 <summary><em>Click to see a Magic</em></summary>
 
-⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.46 % as on ⏰ 5-11-2026.
+⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.73 % as on ⏰ 6-11-2026.
 
 </details>
 
@@ -76,7 +76,6 @@
 
 ### <em>🔉 A Famous Fact/Quote</em>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Real knowledge is to know the extent of one’s ignorance.”— Confucius   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
